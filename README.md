@@ -1,2 +1,2 @@
 # tweeter-api-test
-FL API for testing simple twitter type
+FoodLocker API for testing simple twitter type
